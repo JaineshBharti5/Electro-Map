@@ -29,7 +29,5 @@ Electro-Map is a web-based application that helps users locate and explore elect
 
 ---
 
-## 📁 Project Structure
-
 ---
 
